@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# ue5-ai
-=======
->>>>>>> secondremote/main
-=======
-
->>>>>>> secondremote/main
+# Getting familiar with UE5 AI
